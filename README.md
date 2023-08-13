@@ -3,14 +3,14 @@
 - 📫 How to reach me 
 BMC         https://www.buymeacoffee.com/thelinuxtube
 
-Patreon:     https://www.patreon.com/The_Linux_Tube
+ Patreon:     https://www.patreon.com/The_Linux_Tube
 
-FaceBook: https://www.facebook.com/TheLinuxTube
+ FaceBook: https://www.facebook.com/TheLinuxTube
 
-Twitter:      https://twitter.com/ThelinuxTube
+ Twitter:      https://twitter.com/ThelinuxTube
 
-Odysee:      https://odysee.com/@Thelinuxtube
+ Odysee:      https://odysee.com/@Thelinuxtube
 
-Discord       https://discord.gg/5fA2Xef2aW
+ Discord       https://discord.gg/5fA2Xef2aW
 
 Theses are my curent dot files !! 
